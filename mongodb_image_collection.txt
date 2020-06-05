@@ -1,0 +1,7 @@
+-> Create a page to upload image -upload.html
+-> save the uploaded image into some collection
+-> create one page -> 
+it should query the collection and 
+process the binry data and -> display all the images that are there in the collection
+
+
