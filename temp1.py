@@ -33,7 +33,7 @@ x = mycol.insert_many(mylist)
 
 #print(x.inserted_ids)
 #for x in mycol.find({},{'address':1}):
-#    print(x)
+# print(x)
 dblist = myclient.list_database_names()
 
 
